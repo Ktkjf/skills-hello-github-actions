@@ -1,5 +1,5 @@
 name : post welcome comment
-on:
+on: push
   pull_request:
       types: [opened]
 permissions:
