@@ -1,6 +1,0 @@
-name : post fabiskino welcome comment
-on:
-  pull_request:
-      types: [opened]
-permissions:
-  pull-request: write
